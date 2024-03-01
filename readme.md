@@ -11,7 +11,7 @@ Libraries are meant as tools within the context of a larger
 project. They generally do one set of things well. 
 
 * [ApertureComplexity](https://github.com/victorgabr/ApertureComplexity) - (Python) It is a Python 3.x port of the Eclipse ESAPI plug-in script. As such, it aims to contain the complete functionality of the aperture complexity analysis.
-* [BeamScheme](https://github.com/alanphys/BeamScheme) - (Pascal) This software will assist you in extracting 1D profiles from 2D datasets and calculating various parameters on the profiles.
+* [BeamSchemeV1](https://github.com/alanphys/BeamSchemeV1) - (Pascal) A profile and image analysis tool for medical physics. This software will assist you in extracting 1D profiles from 2D datasets and calculating various parameters on the profiles. The parameter modules can be used independently.
 * [CIL](https://github.com/TomographicImaging/CIL) - (Python) Computational Imaging Library (CIL) is a Python library for tomographic imaging with particular emphasis on reconstruction of challenging datasets.
 * [ClinicalTemplateReader](https://github.com/WUSTL-ClinicalDev/ClinicalTemplateReader) - (C#) A public API to interpret Eclipse plan templates, objective templates, and clinical protocols and utilize the interpretation in the generation of automated plans.
 * [cornerstone](https://github.com/cornerstonejs/cornerstone) - (JavaScript) Cornerstone.js delivers a complete web based medical imaging platform for displaying medical images in modern web browsers. 
@@ -36,6 +36,8 @@ project. They generally do one set of things well.
 
   End-user focused applications; may contain a GUI or browser interface.
 
+* [BeamSchemeV1](https://github.com/alanphys/BeamSchemeV1) - (Pascal) A profile and image analysis tool for medical physics. This software will assist you in extracting 1D profiles from 2D datasets and calculating various parameters on the profiles.
+* [Bistromath](https://bistromath.kegge13.nl/) - BistroMath is designed as add-on to the measuring software of water phantom systems used in radiotherapy. 
 * [CERR](https://github.com/cerr/CERR) - A Computational Environment for Radiological Research
 * [Conquest](https://github.com/marcelvanherk/Conquest-DICOM-Server) - A full featured DICOM server
 * [ctqa](https://github.com/Brikwerk/ctqa) - This utility aims to perform automated QA testing on CT machines for technologists.
